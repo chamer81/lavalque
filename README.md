@@ -1,2 +1,2 @@
 # lavalque
-Just having a little fun with this.
+Just having a little fun with GitHub.
